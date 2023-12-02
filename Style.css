@@ -38,9 +38,10 @@ body{
 }
 a{
     text-decoration: none;
+    cursor: pointer;
 }
 a:hover{
-    color: black;
+    color: #9E9E9E;
 }
 a:link{
     color: black;
@@ -166,12 +167,6 @@ form{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-}
-a{
-    cursor: pointer;
-}
-a:hover{
-    color: #9E9E9E;
 }
 .product{
     height: 275px;
